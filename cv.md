@@ -14,6 +14,7 @@ I work as an Experience Designer for more than two years. Now I decided to deepe
  Zeplin      | Upper-Intermediate 
  html/css    | Elementary         
  VS code     | Basic              
+ Figma     | Advanced             
 
 ## Code-examples
 [GitHub](https://github.com/Kristina-Tarasova)
