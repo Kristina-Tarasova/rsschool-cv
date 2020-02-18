@@ -1,3 +1,15 @@
 .wrapper {
     width: 1024px;
+    margin: 0 auto;
+}
+h1,h2,p,ol,ul {
+    font-family: Arial, Helvetica, sans-serif;
+} 
+td,
+th {
+    padding: 8px;
+    border: 1px solid grey; 
+}
+table {
+    border-collapse: collapse;
 }
